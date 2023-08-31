@@ -8,7 +8,7 @@ Web Kurban Kece
 
 ## Deskripsi
 
-Web ini digunakan untuk **dapat memberika DISKOM**
+Web ini digunakan untuk **dapat memberikan DISKON**
 
 > Memiliki CRUD
 
@@ -79,4 +79,4 @@ Web ini digunakan untuk **dapat memberika DISKOM**
 
 > versi 1.0 unstable
 
-> Create by Developer: restu.andriyana.suhendar@gmail.com
+> Create by Developer: Restu Andryana Suhendar
